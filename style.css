@@ -1,0 +1,16 @@
+  h1{
+    color:rgb(247, 28, 64);
+  }
+
+  p{
+    color:blue;
+  }
+
+  button{
+    background-color: greenyellow;
+    color:rgb(128, 0, 13);
+  }
+
+body{
+  background-color: rgb(97, 237, 164);
+}
